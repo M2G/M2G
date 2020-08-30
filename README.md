@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthieu-pierre-louis/">Linkedin</a>
+</p>
+
+I'm a __javascript developer__  based in __France__. I am curious web developer passionate about crafting neat & reliable web experiences.
 
 <!--
 **M2G/M2G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
